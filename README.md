@@ -88,8 +88,6 @@ python main.py
 ├── sample_data.xlsx       # Sample input file
 ├── requirements.txt
 ├── .env                   # (Not committed) Credentials
-└── assets/
-    └── sample_report.png  # Screenshot for README
 ```
 
 ---
